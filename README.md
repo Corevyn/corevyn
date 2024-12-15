@@ -17,7 +17,7 @@ We work on:
 We’re always looking for collaborators and contributors passionate about technology and innovation. If you’re interested in joining us or exploring our projects, feel free to explore our repositories or reach out.
 
 ## Contact Us
-Have questions or want to connect? Reach out via [email](mailto:corevyn@domain.com) or contribute directly to our projects here on GitHub.  
+Have questions or want to connect? Reach out via [email](mailto:corevyn.in@gmail.com) or contribute directly to our projects here on GitHub.  
 
 ---
 Stay tuned for more exciting projects and updates as Corevyn grows!
